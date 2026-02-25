@@ -1,6 +1,6 @@
-Problem name:Remove duplicates from Sorted Lists
-Problem no:26
-Level:Easy
+//Problem name:Remove duplicates from Sorted Lists
+//Problem no:26
+//Level:Easy
 class Solution {
     public int removeDuplicates(int[] nums) {
         if(nums.length==0) return 0;
