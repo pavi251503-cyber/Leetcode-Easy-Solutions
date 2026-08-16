@@ -1,6 +1,8 @@
+"""
 Problem name:Binary Watch
 Problem no:401
 Difficulty:Easy
+"""
 
 class Solution:
     def readBinaryWatch(self, turnedOn: int) -> List[str]:
